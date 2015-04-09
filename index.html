@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type"/>
+<title>Self Introduction</title>
+  <meta name="description" content="Self introduction including artwork, projects and contact details." />
+  <meta name="keywords" content="Drawings, Cat, Web Development, Web Design, Web Production, Hebrew, Translation."/>
+<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.8.0/build/cssbase/cssbase-min.css">
+<link rel="stylesheet" href="main.css" type="text/css" media="screen" />
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+
+	$(".thumbs a").click(function(){
+	
+		var largePath = $(this).attr("href");
+		var largeAlt = $(this).attr("title");
+		
+		$("#largeImg").attr({ src: largePath, alt: largeAlt});
+		
+		$("#largeLink").attr({href:largeAlt});
+		
+		switch (largePath) {
+    case 'waterfrontsite.jpg':
+        des = "New York City's Changing Waterfront was my individual project for a web development course at Hunter College, NYC. The general instruction was to make a Wordpress-based website on the subject of NYC's flood-prone areas with links to other news sources on the subject and user interactivity.";
+        break;
+    case 'samatics.jpg':
+        des = "This website was initially created as my final project for my first web design course at City College, NYC. The instruction was to build a website on any chosen topic. Samatics is a futuristic human cloning agency, which provides services such as cloning procedure, donor eggs etc. This project expresses my interest in the field of biomedical research. I thought up the concept and built it from scratch on HTML/CSS, with the addition of a simple Javascript-based shopping cart."; 
+        break;
+    default:
+        des='Another project from my web design course at City College. The idea was to visually present the same text in several different ways as to convey a completely different message and tone each time.  The text of my choice was taken from Country Feedback by REM. With this version of the text, I was hoping to set a tone that is in synch with the lyric - melancholy, disorder and confusion. ';
+}   
+      $("#text").text(des);
+		
+		$("h2 em").html(" (" + largeAlt + ")"); return false;
+	});
+	
+});
+</script>
+<style type="text/css">
+	#work .cover{
+		background-image: url(img/work/seokitchen_cover.png);
+	}
+	#slideshow img {z-index:1000; border:160px solid #000000;}
+	#largeImg {
+	border: solid 1px #ccc;
+	width: 550px;
+	height: 400px;
+	padding: 5px;
+}
+.thumbs img {
+	border: solid 1px #ccc;
+	width: 100px;
+	height: 100px;
+	padding: 4px;
+}
+.thumbs img:hover {
+	border-color: #FF9900;
+}
+
+p a {border-bottom:none;}
+</style>
+
+</head>
+<body onunload="">
+<div id="canvas">
+	<div id="navboxplace"></div>
+	<div id="navbox" style="height:110px;">
+
+		<div id="nav" class="wrap" style="font-size:18px;">
+			<a href="#intro" class="navitem intro" style="display:none;">Hello</a>
+			<a href="#services" class="navitem work">HOME</a>
+			<a href="#services" class="navitem services">PROJECTS</a>
+			<a href="#about" class="navitem about">ARTWORK</a>
+			<a href="#contact" class="navitem contact">CONTACT</a>
+		</div>
+		<div class="logobox wrap" data-stellar-offset-parent="true" data-stellar-vertical-offset="18"><a class="logo"><span class="hello" data-stellar-ratio="1.6" style="color:white;"></span>
+		<span class="pt4" data-stellar-ratio=".8"></span><span class="pt5" data-stellar-ratio=".84"></span></a></div>
+	</div>
+	<div id="image" style="left:100px; position: relative; top:-540px; height:750px; background: url('images/justin2.jpg')no-repeat;z-index:0"></div>
+
+	<div id="page">
+		<div id="work" class="wrap">
+			<h2>Work</h2>
+			<div class="colsys" data-stellar-offset-parent="true" data-stellar-vertical-offset="73">
+			    <div class="col1" data-stellar-ratio="1.7">
+			    </div><div class="col2" data-stellar-ratio="1.5">
+			    </div><div class="col3" data-stellar-ratio="1.8">
+			    </div><div class="col4" data-stellar-ratio="1.6">
+				</div>
+			</div>
+		</div>
+		<div id="services" style="margin:none;">
+<div style="position:relative; top:-30px;left:290px; margin:none;">	
+				<p style="margin:none;"> A few of my projects from web-related courses at The City University of New York (CUNY).</p>
+<p style="margin:none;"><a id="largeLink" target="blank" href="Untitled.html"><img id="largeImg" src="samatics.jpg" alt="Large image" style="height:300px"></a></p>
+
+<p class="thumbs">
+	<a href="waterfrontsite.jpg" title="http://classes.floatingcity.us/wdp-sandbox/moskop/wordpress_leah/"><img src="waterfrontsite.jpg"></a>
+	<a href="countryfeedback.jpg" title="http://ninetieschild.github.io/text/"><img src="countryfeedback.jpg"></a>
+	<a href="samatics.jpg" title="http://ninetieschild.github.io/myproject/index.html"><img src="samatics.jpg"></a>
+</p>
+<div id="text" style="font-size:15px; color:white; position:relative; left:560px; top:-510px; width:300px;">This website was initially created as my final project for my first web design course at City College, NYC. The instruction was to build a website on any chosen topic. Samatics is a futuristic human cloning agency, which provides services such as cloning procedure, donor eggs etc. This project expresses my interest in the field of biomedical research. I thought up the concept and built it from scratch on HTML/CSS, with the addition of a simple Javascript-based shopping cart. 
+</div>
+</div><!------------------------------------------------------------------------------->
+		</div><!----------------------------------services---------------------->
+		<div id="contact">
+		<p></p>
+			<h2 style="position:relative; top:50px; left:100px;">Contact Me</h2>
+			<div class="wrap">
+				<div class="people" style="position:relative;left:-70px; top:20px;">
+					<div class="left1" style="position:relative;top:50px; width:400px">
+						<h3>Fancy a Drawing?</h3>
+						<p> I can draw any face or figure with exceptional precision.</br>Any photo, regardless of size, can be used to make a large drawing. The better the resolution of the photo, the clearer and more detailed the drawing.</p>
+						
+					</div>
+					<div class="right1" style="position:relative; float:right; left:-180px; top:-99px; width:400px">
+						<h3>Web/Translation</h3>
+						<p>I believe it is of good habit to constantly challenge one's mind by learning new skills, and my actions abide.</br>I've just graduated as a CUNY Baccalaureate student majoring in Electronic Communications and I'm currently delving in the field of data analysis and visualization. I have experience building websites with HTML/CSS, jQuery, JavaScript, PHP and Wordpress. Word, Photoshop, Illustrator and Excel haven all been extensively used in the frame of my education.</br>In addition to my experience in web production, I am proficient in two languages - Hebrew and English - at a native level. I could translate any material in either language, and translation for web content would be of special interest. </p>
+					</div>
+					</br> </br> </br></br></br>
+					<p><img src="email.png" style="width:30px;position:relative; top:10px;padding-right:5px;"><span>email:</span>	<a class="email" href="mailto:my_instant_transmission@outlook.com"><span class="link" style=" position:relative;top:-20px;left:30px;">my_instant_transmission@outlook.com</span></a></p>
+					<p style="color:#7A8B94;  position:relative; top:-70px; left:-10px; font-weight:bold; font-size:15px;"><img src="phone.png" style="width:45px; position:relative;top:15px;padding-right:1px;">text: <span style="color:white;font-weight:normal;padding-left:25px"> +347 674 8857</span> </p>
+					<p style="position:relative;left:2px;top:-45px;"><img src="skype.png" style="width:20px; padding-right:11px;position:relative;top:-15px;"><span style="color:#7A8B94;  position:relative; top:-20px; font-weight:bold; font-size:15px; padding-right:10px">Skype:</span><span style="color:white;position:relative;top:-20px"> Skypename2345</span> </p>
+				</div>
+			</div>
+		</div>
+		<div id="about" class="wrap">
+			<h2 style="font-family: Tahoma, Geneva, Verdana, sans serif;">ARTWORK</h2>
+			<div style="position:relative; top:-30px; left:70px; color:white; font-size:15px; line-height:19px;font-family:Helvetica,Arial,sans-serif;"> Images of graphite/charcoal drawings by yours truly. </p><p>Click an image to view slideshow.</p></div>
+			<div id="imageSet" style="position:relative; height:400px; left:60px;">
+
+<a href="images/furious2.png" class="lightboxX35"> 
+<img src="images/furious2.png" class="thumb"></a>
+
+
+<a href="images/weedolly2.png" class="lightboxX35"> 
+<img src="images/weedolly2.png" class="thumb"></a>
+
+<a href="images/mydoll.jpg" class="lightboxX35"> 
+<img src="images/mydoll.jpg" class="thumb"></a>
+
+<a href="images/bronze.jpg" class="lightboxX35"> 
+<img src="images/bronze.jpg" class="thumb"></a>
+
+<a href="images/frankH.png" class="lightboxX35"> 
+<img src="images/frankH.png" class="thumb"></a>
+
+
+</br>
+
+<a href="images/lostboys2.png" class="lightboxX35"> 
+<img src="images/lostboys2.png" class="thumb"></a>
+
+<a href="images/kurt.jpg" class="lightboxX35"> 
+<img src="images/kurt.jpg" class="thumb"></a>
+
+<a href="images/ian2.png" class="lightboxX35"> 
+<img src="images/ian2.png" class="thumb"></a>
+
+<a href="images/ian_drawing.jpg" class="lightboxX35"> 
+<img src="images/ian_drawing.jpg" class="thumb"></a>
+
+<a href="images/greatestlovestoryofalltimes.png" class="lightboxX35"> 
+<img src="images/greatestlovestoryofalltimes.png" class="thumb"></a>
+
+</br>
+
+<a href="images/suzie.jpg" class="lightboxX35"> 
+<img src="images/suzie.jpg" class="thumb"></a>
+
+<a href="images/dollface.jpg" class="lightboxX35"> 
+<img src="images/dollface.jpg" class="thumb"></a>
+
+
+<a href="images/digital_justin.jpg" class="lightboxX35"> 
+<img src="images/digital_justin.jpg" class="thumb"></a>
+
+
+<a href="images/climbing2.png" class="lightboxX35"> 
+<img src="images/climbing2.png" class="thumb"></a>
+
+
+</div> 					
+			
+		</div>
+				
+	</div>
+	<div id="intro" class="wrap">
+		<a href="#work" class="colsys five" data-stellar-offset-parent="true" data-stellar-vertical-offset="0"><span class="col1" data-stellar-ratio=".4"><span class="intro a"></span></span><span class="col2" data-stellar-ratio=".7"><span class="intro b"></span></span><span class="col3" data-stellar-ratio=".1"><span class="intro c"></span></span><span class="col4" data-stellar-ratio=".6"><span class="intro d"></span></span><span class="col5" data-stellar-ratio=".4"><span class="intro e"></span></span></a>
+	</div>
+</div>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="jquery.stellar.js"></script>
+<script type="text/javascript" src="jquery.scrollmenu.js"></script>
+<script type="text/javascript" src="jquery.snap.js"></script>
+<script type="text/javascript" src="main.js"></script>
+<script src="lightbox35.js"></script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-21430128-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>
+
