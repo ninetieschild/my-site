@@ -97,7 +97,7 @@ p a {border-bottom:none;}
 
 <p class="thumbs">
 	<a href="waterfrontsite.jpg" title="http://classes.floatingcity.us/wdp-sandbox/moskop/wordpress_leah/"><img src="waterfrontsite.jpg"></a>
-	<a href="countryfeedback.jpg" title="Untitled.html"><img src="countryfeedback.jpg"></a>
+	<a href="countryfeedback.jpg" title="http://ninetieschild.github.io/text/"><img src="countryfeedback.jpg"></a>
 	<a href="samatics.jpg" title="http://ninetieschild.github.io/myproject/index.html"><img src="samatics.jpg"></a>
 </p>
 <div id="text" style="font-size:15px; color:white; position:relative; left:560px; top:-510px; width:300px;">This website was initially created as my final project for my first web design course at City College, NYC. The instruction was to build a website on any chosen topic. Samatics is a futuristic human cloning agency, which provides services such as cloning procedure, donor eggs etc. This project expresses my interest in the field of biomedical research. I thought up the concept and built it from scratch on HTML/CSS, with the addition of a simple Javascript-based shopping cart. 
@@ -130,12 +130,12 @@ p a {border-bottom:none;}
 			<div style="position:relative; top:-30px; left:70px; color:white; font-size:15px; line-height:19px;font-family:Helvetica,Arial,sans-serif;"> Images of graphite/charcoal drawings by yours truly. </p><p>Click an image to view slideshow.</p></div>
 			<div id="imageSet" style="position:relative; height:400px; left:60px;">
 
-<a href="images/furious2.png" class="lightboxX35"> 
-<img src="images/furious2.png" class="thumb"></a>
+<a href="images/furious2.JPG" class="lightboxX35"> 
+<img src="images/furious2.JPG" class="thumb"></a>
 
 
-<a href="images/weedolly2.png" class="lightboxX35"> 
-<img src="images/weedolly2.png" class="thumb"></a>
+<a href="images/weedolly2.JPG" class="lightboxX35"> 
+<img src="images/weedolly2.JPG" class="thumb"></a>
 
 <a href="images/mydoll.jpg" class="lightboxX35"> 
 <img src="images/mydoll.jpg" class="thumb"></a>
@@ -149,36 +149,36 @@ p a {border-bottom:none;}
 
 </br>
 
-<a href="images/lostboys2.png" class="lightboxX35"> 
-<img src="images/lostboys2.png" class="thumb"></a>
+<a href="images/lostboys2.JPG" class="lightboxX35"> 
+<img src="images/lostboys2.JPG" class="thumb"></a>
 
 <a href="images/kurt.jpg" class="lightboxX35"> 
 <img src="images/kurt.jpg" class="thumb"></a>
 
-<a href="images/ian2.png" class="lightboxX35"> 
-<img src="images/ian2.png" class="thumb"></a>
+<a href="images/ian2.JPG" class="lightboxX35"> 
+<img src="images/ian2.JPG" class="thumb"></a>
 
-<a href="images/ian_drawing.jpg" class="lightboxX35"> 
-<img src="images/ian_drawing.jpg" class="thumb"></a>
+<a href="images/ian_drawing2.jpg" class="lightboxX35"> 
+<img src="images/ian_drawing2.jpg" class="thumb"></a>
 
-<a href="images/greatestlovestoryofalltimes.png" class="lightboxX35"> 
-<img src="images/greatestlovestoryofalltimes.png" class="thumb"></a>
+<a href="images/greatestlovestoryofalltimes.JPG" class="lightboxX35"> 
+<img src="images/greatestlovestoryofalltimes.JPG" class="thumb"></a>
 
 </br>
 
 <a href="images/suzie.jpg" class="lightboxX35"> 
 <img src="images/suzie.jpg" class="thumb"></a>
 
-<a href="images/dollface.jpg" class="lightboxX35"> 
-<img src="images/dollface.jpg" class="thumb"></a>
+<a href="images/dollface2.JPG" class="lightboxX35"> 
+<img src="images/dollface2.JPG" class="thumb"></a>
 
 
 <a href="images/digital_justin.jpg" class="lightboxX35"> 
 <img src="images/digital_justin.jpg" class="thumb"></a>
 
 
-<a href="images/climbing2.png" class="lightboxX35"> 
-<img src="images/climbing2.png" class="thumb"></a>
+<a href="images/climbing2.JPG" class="lightboxX35"> 
+<img src="images/climbing2.JPG" class="thumb"></a>
 
 
 </div> 					
