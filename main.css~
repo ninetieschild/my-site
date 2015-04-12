@@ -3,7 +3,7 @@
 html, body{
 	margin: 0px;
 	background-color: #000;
-	color: white;
+	color: #b3c3cc;
 	font-family: Helvetica, Arial, sans-serif;
 	font-size: 11px;
 }
@@ -30,7 +30,7 @@ p{
 	-webkit-font-smoothing: antialiased;
 	font-size: 14px;
 	line-height: 20px;
-	color: white;
+	color: #b3c3cc;
 	padding-right: 10px;
 }
 p strong{
@@ -45,13 +45,11 @@ p.large strong{
 	padding: 0px 4px 0px 4px;
 }
 p a{
-	color: #fff;
+	color: #7a8b94;
 	text-decoration: none;
 	border-bottom: 1px dotted #888;
 }
-p a:hover{
-	border-bottom: 1px dotted #fff;
-}
+
 #services{
 	padding-top: 160px;
 	position: relative;
@@ -558,7 +556,7 @@ top: 252px;
 	text-decoration: none;
 	overflow: hidden;
 	color:black;
-	font-weight:bold;
+	font-weight:800;
 	text-shadow:2px 2px white;
 	border-radius: 1px;
 	opacity:0.9;
@@ -610,14 +608,14 @@ top: 252px;
 }      
 #nav a.services{
 	background-position: -209px top;
-	width: 100px;
+	width: 120px;
 	left: 220px;
 	top:5px;
 
 }
 #nav a.about{
 	background-position: -328px top;
-	width: 101px;
+	width: 109px;
 	left: 452px;
 	top:5px;
 
