@@ -77,7 +77,8 @@ $('body').on('click', '#slideshow', function() {
 
 
 $('body').on('click', '#lightboxX35Close', function() { 
-$('#slideshow').remove();});
+$('#slideshow').remove(); $('#navbox').css("z-index", 10);
+});
    
  	
  
