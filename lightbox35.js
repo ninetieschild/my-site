@@ -28,6 +28,7 @@ var current, size;
       
       //insert lightbox HTML into page
       $('body').append(lightbox);
+      $('#navbox').css("z-index", 0);
       
       // fill lightbox with .lightboxX35 hrefs in #imageSet
       $('#imageSet').find('.lightboxX35').each(function() {

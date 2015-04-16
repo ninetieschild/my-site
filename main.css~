@@ -30,7 +30,6 @@ p{
 	-webkit-font-smoothing: antialiased;
 	font-size: 14px;
 	line-height: 20px;
-	color: #b3c3cc;
 	padding-right: 10px;
 }
 p strong{
@@ -912,7 +911,6 @@ top: 252px;
 	color: #fff;
 	font-weight: normal;
 	text-decoration: none;
-	border-bottom: 1px dotted #888;
 	position: relative;
 	top: -2px;
 	
