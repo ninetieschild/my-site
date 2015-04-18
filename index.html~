@@ -25,10 +25,10 @@ $(document).ready(function(){
         des = "New York City's Changing Waterfront was my individual project for a web development course at Hunter College, NYC. The general instruction was to make a Wordpress-based website on the subject of NYC's flood-prone areas with links to other news sources on the subject and user interactivity.";
         break;
     case 'samatics.jpg':
-        des = "This website was initially created as my final project for my first web design course at City College, NYC. The instruction was to build a website on any chosen topic. Samatics is a futuristic human cloning agency, which provides services such as cloning procedure, donor eggs etc. This project expresses my interest in the field of biomedical research. I thought up the concept and built it from scratch on HTML/CSS, with the addition of a simple Javascript-based shopping cart."; 
+        des = "This website was initially created as a final project for my first web design course at The City University of New York. The instruction was to build a website on any chosen topic. Samatics is a futuristic human cloning agency, which provides services such as cloning procedure, donor eggs etc. This project expresses my interest in the field of biomedical research. I thought up the concept and built it from scratch on HTML/CSS, with the addition of a simple Javascript-based shopping cart."; 
         break;
     default:
-        des='Another project from my web design course at City College. The idea was to visually present the same text in several different ways as to convey a completely different message and tone each time.  The text of my choice was taken from Country Feedback by REM. With this version of the text, I was hoping to set a tone that is in synch with the lyric - melancholy, disorder and confusion. ';
+        des='Another project from my web design course at CUNY. The idea was to visually present the same text in several different ways as to convey a completely different message and tone each time.  The text of my choice was taken from Country Feedback by REM. With this version of the text, I was hoping to set a tone that is in synch with the lyric - melancholy, disorder and confusion. ';
 }   
       $("#text").text(des);
 		
@@ -100,7 +100,7 @@ p a {border-bottom:none;}
 	<a href="countryfeedback.jpg" title="http://ninetieschild.github.io/text/"><img src="countryfeedback.jpg"></a>
 	<a href="samatics.jpg" title="http://ninetieschild.github.io/myproject/index.html"><img src="samatics.jpg"></a>
 </p>
-<div id="text" style="font-size:15px; color:white; position:relative; left:560px; top:-510px; width:300px;">This website was initially created as my final project for my first web design course at City College, NYC. The instruction was to build a website on any chosen topic. Samatics is a futuristic human cloning agency, which provides services such as cloning procedure, donor eggs etc. This project expresses my interest in the field of biomedical research. I thought up the concept and built it from scratch on HTML/CSS, with the addition of a simple Javascript-based shopping cart. 
+<div id="text" style="font-size:15px; color:white; position:relative; left:560px; top:-510px; width:300px;">This website was initially created as a final project for my first web design course at The City University of New York. The instruction was to build a website on any chosen topic. Samatics is a futuristic human cloning agency, which provides services such as cloning procedure, donor eggs etc. This project expresses my interest in the field of biomedical research. I thought up the concept and built it from scratch on HTML/CSS, with the addition of a simple Javascript-based shopping cart. 
 </div>
 </div><!------------------------------------------------------------------------------->
 		</div><!----------------------------------services---------------------->
@@ -119,7 +119,7 @@ p a {border-bottom:none;}
 						<p>I've just graduated as a CUNY Baccalaureate student majoring in Electronic Communications and I'm currently delving in the field of data analysis and visualization. I have experience building websites with HTML/CSS, jQuery, JavaScript, PHP and Wordpress. Word, Photoshop, Illustrator and Excel haven all been extensively used in the frame of my education.</br>In addition to my experience in web production, I am proficient in two languages - Hebrew and English - at a native level. I could translate any material in either language, and translation for web content would be of special interest. </p>
 					</div>
 					</br> </br> </br></br></br>
-					<div id="con" style="position:relative;top:-350px;left:-4px">
+					<div id="con" style="position:relative;top:-348px;left:-4px">
 					<p><img src="email.png" style="width:30px;position:relative; top:10px;padding-right:5px;"><span>email:</span>	<a class="email" href="mailto:my_instant_transmission@outlook.com"><span class="link" style=" position:relative;top:-20px;left:30px;font-weight:bold">my_instant_transmission@outlook.com</span></a></p>
 					<p style="color:#7A8B94;  position:relative; top:-70px; left:-10px; font-weight:bold; font-size:15px;"><a href="https://www.facebook.com/profile.php?id=100009285379528" target="_blank"><img src="facebook.png" style="width:27px; position:relative;top:17px;left:10px;padding-right:17px;"></a><a href="https://www.facebook.com/profile.php?id=100009285379528" target="_blank" style="top:10px;color:7a8b94; position:relative;">Contact me on Facebook</a></p>
 					<p style="position:relative;left:2px;top:-45px;"><img src="skype.png" style="width:20px; padding-right:11px;position:relative;top:-15px;"><span style="color:#7A8B94;  position:relative; top:-20px; font-weight:bold; font-size:15px; padding-right:10px">Skype:</span><span style="color:white;position:relative;top:-20px"> Skypename2345</span> </p>
