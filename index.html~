@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type"/>
 <title>Self Introduction</title>
   <meta name="description" content="Self introduction including artwork, projects and contact details." />
@@ -22,7 +23,7 @@ $(document).ready(function(){
 		
 		switch (largePath) {
     case 'waterfrontsite.jpg':
-        des = "New York City's Changing Waterfront was my individual project for a web development course at Hunter College, NYC. The general instruction was to make a Wordpress-based website on the subject of NYC's flood-prone areas with links to other news sources on the subject and user interactivity.";
+        des = "New York City's Changing Waterfront was my individual project for a web development course at Hunter College, NYC. The general instruction was to make a Wordpress-based website revolving around NYC's flood-prone zones with links to other news sources on the subject and user interactivity.";
         break;
     case 'samatics.jpg':
         des = "This website was initially created as a final project for my first web design course at The City University of New York. The instruction was to build a website on any chosen topic. Samatics is a futuristic human cloning agency, which provides services such as cloning procedure, donor eggs etc. This project expresses my interest in the field of biomedical research. I thought up the concept and built it from scratch on HTML/CSS, with the addition of a simple Javascript-based shopping cart."; 
@@ -92,8 +93,8 @@ p a {border-bottom:none;}
 		</div>
 		<div id="services" style="margin:none;">
 <div style="position:relative; top:-30px;left:290px; margin:none;">	
-				<p style="margin:none;"> A few of my projects from web-related courses at The City University of New York (CUNY).</p>
-<p style="margin:none;"><a id="largeLink" target="blank" href="Untitled.html"><img id="largeImg" src="samatics.jpg" alt="Large image" style="height:300px"></a></p>
+				<p style="margin:none;">Click a thumbnail to view project and description.</p>
+<p style="margin:none;"><a id="largeLink" target="blank" href="http://ninetieschild.github.io/myproject/index.html"><img id="largeImg" src="samatics.jpg" alt="Large image" style="height:300px"></a></p>
 
 <p class="thumbs">
 	<a href="waterfrontsite.jpg" title="http://classes.floatingcity.us/wdp-sandbox/moskop/wordpress_leah/"><img src="waterfrontsite.jpg"></a>
