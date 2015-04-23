@@ -184,7 +184,7 @@ function appendStyle(styles) {
 function appendHEAD(){ var hedA= document.createElement('head'); document.appendChild(hedA);}
 var styles = '#slideshow { position: fixed; top: 0; left: 0; width: 100%; height: 720px; min-height:720px; background: rgba(0,0,0,0.96);}'+
 '#slideshow  p { font-size:20px; font-family:Arial; position:fixed; z-index:999; cursor:pointer; padding:2px 6px 4px; border:2px solid white; right:10px; top:-5px; text-align:  right; color: #fff; background: black; border-radius:3px;}'+
-'#slideshow img { position: relative; height: 104%; min-height:640px}'+
+'#slideshow img { position: fixed; left:50%; top: 50%; transform: translate(-50%, -50%); width: auto; height: 102%; min-height:640px}'+
 '.prev, .next {  z-index:5999; background: black; cursor:pointer; position: absolute; top: 45%;  padding: 16px ; color: #fff; text-decoration: none; font-weight:bold; position: absolute;font-size:60px;text-shadow:1px 1px 0px #444;}'+
 '.next { right: 7px; border-radius:2px 15px 15px 2px; } .prev { left: 7px;  border-radius:15px 2px 2px 15px; }'+ '.prev:hover{background:white; color:black;}'+ '.next:hover{background:white; color:black;}'+
 '.thumb{width: auto;height: 100px;margin:5px;}';

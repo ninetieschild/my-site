@@ -68,9 +68,9 @@ p a {border-bottom:none;}
 	<div id="navboxplace"></div>
 	<div id="navbox" style="height:110px;">
 
-		<div id="nav" class="wrap" style="font-size:18px;">
+		<div id="nav" class="wrap" style="font-size:18px; ">
 			<a href="#intro" class="navitem intro" style="display:none;">Hello</a>
-			<a href="#services" class="navitem work">HOME</a>
+			<a href="#services" class="navitem work" >HOME</a>
 			<a href="#services" class="navitem services">PROJECTS</a>
 			<a href="#about" class="navitem about">ARTWORK</a>
 			<a href="#contact" class="navitem contact">CONTACT</a>
