@@ -78,7 +78,7 @@ p a {border-bottom:none;}
 		<div class="logobox wrap" data-stellar-offset-parent="true" data-stellar-vertical-offset="18"><a class="logo"><span class="hello" data-stellar-ratio="1.6" style="color:white;"></span>
 		<span class="pt4" data-stellar-ratio=".8"></span><span class="pt5" data-stellar-ratio=".84"></span></a></div>
 	</div>
-	<div id="image" class="justin2" style="width:auto;height:100%;min-height:800px;position:relative;left:50%;margin-left:-702px;top:-540px; background: url('images/justin2b.jpg')no-repeat;z-index:0"></div>
+	<div id="image" class="justin2" style="width:auto;height:100%;min-height:800px;position:relative;left:50%;margin-left:-533px;top:-540px; background: url('images/website2.jpg')no-repeat;z-index:0"></div>
 
 	<div id="page">
 		<div id="work" class="wrap">
@@ -93,7 +93,7 @@ p a {border-bottom:none;}
 		</div>
 		<div id="services">
 		<div class="wrap" style="position:relative">
-		<div style="position:relative;left:100px">
+		<div style="position:relative;left:100px; top:-50px">
 <p style="margin:none;">Click a thumbnail to view project and description.</p>
 <p style="margin:none;"><a id="largeLink" target="blank" href="http://ninetieschild.github.io/myproject/index.html"><img id="largeImg" src="samatics.jpg" alt="Large image" style="height:300px"></a></p>
 
@@ -114,7 +114,7 @@ p a {border-bottom:none;}
 				<div class="people" style="position:relative;left:-70px; top:20px;">
 					<div class="left1" style="position:relative;top:50px; width:400px">
 						<h3>Fancy a Drawing?</h3>
-						<p> I can draw any face or figure with exceptional precision.</br>Any photo, regardless of size, can be used to make a large drawing. The better the resolution of the photo, the clearer and more detailed the drawing.</p>
+						<p> I can draw any face or figure with exceptional precision.</br>Any photo, regardless of size, can be used to make a large drawing. Better resolution results in a clearer and more detailed drawing.</p>
 						
 					</div>
 					<div class="right1" style="position:relative; float:right; left:-180px; top:-99px; width:400px">
