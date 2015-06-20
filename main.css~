@@ -556,9 +556,7 @@ top: 252px;
 	overflow: hidden;
 	color:black;
 	font-weight:800;
-	text-shadow:2px 2px white;
-	border-radius: 1px;
-	opacity:0.9;
+	text-shadow:0 0 80px white,0 0 30px white,0 0 6px white;
      
 }
 @-moz-keyframes slidein {

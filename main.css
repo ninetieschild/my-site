@@ -518,7 +518,6 @@ top: 252px;
 	height: 90px;
 	position: fixed;
 	top: 0px;
-	z-index: 500;
 	margin-bottom: -90px;
 }
 #navbox.start{
