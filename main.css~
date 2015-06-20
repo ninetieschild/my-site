@@ -518,8 +518,8 @@ top: 252px;
 	height: 90px;
 	position: fixed;
 	top: 0px;
-	z-index: 500;
 	margin-bottom: -90px;
+	z-index:1;
 }
 #navbox.start{
 	width: 980px;
@@ -582,6 +582,7 @@ top: 252px;
         width:100%;
       }
     }
+#slideshow img {z-index:1000}
 #nav a:hover{
 	opacity: 0.5;
 	color:white;
