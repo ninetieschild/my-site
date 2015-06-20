@@ -13,7 +13,7 @@ var current, size;
     if ($('#slideshow').length > 0) {        
       // #lightbox exists
       $('#slideshow').fadeIn(6000);
-      $('#nav').css('z-index','-1');
+      $('#nav').css("z-index","0");
       // #lightbox does not exist - create and insert (runs 1st time only)
     } else {                                
 
