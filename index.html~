@@ -103,7 +103,7 @@ p a {border-bottom:none;}
 <p class="thumbs">
 	<a href="countryfeedback.jpg" title="http://ninetieschild.github.io/text/"><img src="countryfeedback.jpg"></a>
 	<a href="samatics.jpg" title="http://ninetieschild.github.io/myproject/index.html"><img src="samatics.jpg"></a>
-	<a href="irish.jpg" title="http://kitty-cat-k0we.squarespace.com/welcome/#about"><img src="irish.jpg"></a>
+	<a href="irish.jpg" title="https://kitty-cat-k0we.squarespace.com/#about"><img src="irish.jpg"></a>
 </p>
 <div id="text" style="font-size:15px; color:white; position:relative; left:560px; top:-510px; width:300px;">This website was initially created as a final project for my first web design course at The City University of New York. The instruction was to build a website on any chosen topic. Samatics is a futuristic human cloning agency, which provides services such as cloning procedure, donor eggs etc. This project expresses my interest in the field of biomedical research. I thought up the concept and built it from scratch on HTML/CSS, with the addition of a simple Javascript-based shopping cart. 
 </div>
