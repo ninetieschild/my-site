@@ -13,6 +13,7 @@ var current, size;
     if ($('#slideshow').length > 0) {        
       // #lightbox exists
       $('#slideshow').fadeIn(6000);
+      $('#nav').css('z-index','-1');
       // #lightbox does not exist - create and insert (runs 1st time only)
     } else {                                
 
@@ -167,6 +168,7 @@ changeImg(current, dest);
 	$('#lightboxX35Close').click(function() {
 	alert(12);
 	$('#slideshow').remove();
+	$('#nav').css('z-index','auto');
 	});
 	
 	
