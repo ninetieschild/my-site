@@ -121,14 +121,14 @@ p a {border-bottom:none;}
 						
 					</div>
 					<div class="right1" style="position:relative; float:right; left:-180px; top:-99px; width:400px">
-						<h3>Web/Translation</h3>
-						<p>I've just graduated as a CUNY Baccalaureate student majoring in Electronic Communications and I'm currently delving in the field of data analysis and visualization. I have experience building websites with <b>HTML/CSS, jQuery, JavaScript, PHP, Wordpress and Squarespace</b>. Word, Photoshop, Illustrator and Excel haven all been extensively used in the frame of my education.</br>In addition to my experience in web production, I am proficient in two languages - Hebrew and English - at a native level. I could translate any material in either language, and translation for web content would be of special interest. </p>
+						<h3>Web Development</h3>
+						<p>I've recently graduated as a CUNY Baccalaureate majoring in Electronic Communications and I'm currently delving into the field of data analysis and visualization. My interdisciplinary degree is composed of courses pertaining to electronic communication, such as Web Design and 2D Imaging, as well as courses in the field of biology, such as Genetics, Organic Chemistry, Biochemistry, Molecular Virology, Carcinogenesis and Physiology.</br> I like to design aesthetically pleasing websites with clear navigation and overall good accessibility. I have experience building websites with HTML/CSS, jQuery, JavaScript, PHP and in the Squarespace CMS. Additionally, I have extensively worked with Word, Photoshop, Illustrator and Excel. </p>
 					</div>
 					</br> </br> </br></br></br>
 					<div id="con" style="position:relative;top:-348px;left:-4px">
-					<p><img src="email.png" style="width:30px;position:relative; top:10px;padding-right:5px;"><span>email:</span>	<a class="email" href="mailto:my_instant_transmission@outlook.com"><span class="link" style=" position:relative;top:-20px;left:30px;font-weight:bold">my_instant_transmission@outlook.com</span></a></p>
+					<p><img src="email.png" style="width:30px;position:relative; top:10px;padding-right:5px;"><span>email:</span>	<a class="email" href="mailto:my_instant_transmission@outlook.com"><span class="link" style=" position:relative;top:-19px;left:15px;font-weight:bold">my_instant_transmission@outlook.com</span></a></p>
 					<p style="color:#7A8B94;  position:relative; top:-70px; left:-10px; font-weight:bold; font-size:15px;"><a href="https://www.facebook.com/profile.php?id=100009285379528" target="_blank"><img src="facebook.png" style="width:27px; position:relative;top:17px;left:10px;padding-right:17px;"></a><a href="https://www.facebook.com/profile.php?id=100009285379528" target="_blank" style="top:10px;color:7a8b94; position:relative;">Contact me on Facebook</a></p>
-					<p style="position:relative;left:2px;top:-45px;"><img src="skype.png" style="width:20px; padding-right:11px;position:relative;top:-15px;"><span style="color:#7A8B94;  position:relative; top:-20px; font-weight:bold; font-size:15px; padding-right:10px">Skype:</span><span style="color:white;position:relative;top:-20px"> Skypename2345</span> </p>
+					<p style="position:relative;left:2px;top:-45px;"><img src="skype.png" style="width:20px; padding-right:11px;position:relative;top:-15px;left:2px;"><span style="color:#7A8B94;  position:relative; top:-20px; font-weight:bold; font-size:15px; padding-right:10px">Skype:</span><span style="color:white;position:relative;top:-19px;left:-10px;"> Skypename2345</span> </p>
 					</div>
 				</div>
 			</div>
