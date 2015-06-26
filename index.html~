@@ -122,7 +122,7 @@ p a {border-bottom:none;}
 					</div>
 					<div class="right1" style="position:relative; float:right; left:-180px; top:-99px; width:400px">
 						<h3>Web Development</h3>
-						<p>I've recently graduated as a CUNY Baccalaureate majoring in Electronic Communications and I'm currently delving into the field of data analysis and visualization. My interdisciplinary degree is composed of courses pertaining to electronic communication, such as Web Design and 2D Imaging, as well as courses in the field of biology, such as Genetics, Biochemistry, Molecular Virology, Carcinogenesis and Physiology.</br> I like to design aesthetically pleasing websites with clear navigation and overall good accessibility. I have experience building websites with HTML/CSS, jQuery, JavaScript, PHP and in the Squarespace CMS. Additionally, I have extensively worked with Photoshop, Illustrator and Excel. </p>
+						<p>I've recently graduated as a CUNY Baccalaureate majoring in Electronic Communications and I'm currently delving into the field of data analysis and visualization. </p><p> My interdisciplinary degree is composed of courses pertaining to electronic communication, such as Web Design and 2D Imaging, as well as courses in the field of biology, such as Genetics, Biochemistry, Molecular Virology, Carcinogenesis and Physiology.</br> I like to design aesthetically pleasing websites with clear navigation and overall good accessibility. I have experience in building websites with HTML/CSS, jQuery, JavaScript, PHP and in the Squarespace CMS. Additionally, I have extensively worked with Adobe Photoshop, Adobe Illustrator and Excel. </p>
 					</div>
 					</br> </br> </br></br></br>
 					<div id="con" style="position:absolute;top:43%;left:-4px">
@@ -134,7 +134,7 @@ p a {border-bottom:none;}
 			</div>
 		</div>
 		<div id="about" class="wrap">
-			<div style="position:relative; top:-60px; left:70px; color:white; font-size:15px; line-height:19px;font-family:Helvetica,Arial,sans-serif;">All drawing were made with graphite and/or charcoal. </p><p>Click an image to view slideshow.</p></div>
+			<div style="position:relative; top:-60px; left:70px; color:white; font-size:15px; line-height:19px;font-family:Helvetica,Arial,sans-serif;">All drawings were made with graphite and/or charcoal. </p><p>Click an image to view slideshow.</p></div>
 			<div id="imageSet" style="position:relative; height:400px; top:-30px; left:60px;font-size:10px;">
 
 <a href="images/furious2.jpg" class="lightboxX35"> 
